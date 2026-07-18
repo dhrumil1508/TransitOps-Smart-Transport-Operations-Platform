@@ -17,7 +17,7 @@ TransitOps is a smart transport operations platform built with modern web techno
 ## Getting Started
 1. Install dependencies:
    ```bash
-   bun install   # or npm install
+   bun i   # or npm i
    ```
 2. Start development server:
    ```bash
